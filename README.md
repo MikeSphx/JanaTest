@@ -1,2 +1,2 @@
 # JanaTest
-To run this code, enter the URL address of the website you wish to pull email address from.
+To run this code, enter the URL address of the website you wish to pull email addresses from.
